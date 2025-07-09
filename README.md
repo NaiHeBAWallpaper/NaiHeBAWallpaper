@@ -29,5 +29,6 @@
 | ![img](./assets/avatar-1751721269222-74.png)                 | [Waraku_Chise](https://github.com/NaiHeBAWallpaper/Waraku_Chise) | https://steamcommunity.com/sharedfiles/filedetails/?id=3496511886 |
 | ![img](./assets/avatar-1751721273407-77.png)                 | [Waraku_Chise_Swimsuit](https://github.com/NaiHeBAWallpaper/Waraku_Chise_Swimsuit) | https://steamcommunity.com/sharedfiles/filedetails/?id=3496522892 |
 | ![Student_Portrait_CH0070_Collection](./assets/Student_Portrait_CH0070_Collection.png) | [Yurizono_Seia](https://github.com/NaiHeBAWallpaper/Yurizono_Seia) | https://steamcommunity.com/sharedfiles/filedetails/?id=3520135197 |
+| ![Student_Portrait_CH0070_Collection](./assets/Student_Portrait_CH0070_Collection.png) | [Yurizono_Seia_GL](https://github.com/NaiHeBAWallpaper/Yurizono_Seia_GL) | https://steamcommunity.com/sharedfiles/filedetails/?id=3520791695 |
 | ![img](./assets/Student_Portrait_CH0221_Collection.png)      | [Yutori_Natsu_Band](https://github.com/NaiHeBAWallpaper/Yutori_Natsu_Band) | https://steamcommunity.com/sharedfiles/filedetails/?id=3504074177 |
 
