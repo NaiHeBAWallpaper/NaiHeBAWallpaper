@@ -1,6 +1,6 @@
 ## Blue Archive Memorial Lobby Wallpaper
 
-[Steam Collections](https://steamcommunity.com/workshop/browse/?section=collections&appid=431960)
+[Steam Collections](https://steamcommunity.com/sharedfiles/filedetails/?id=3494130242)
 
 
 
